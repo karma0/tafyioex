@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/anfederico/Flaskex/master/media/flaskex-logo.png" width="128px"><p>
+<p align="center"><img src="https://raw.githubusercontent.com/karma0/tafyio/master/media/flaskex-logo.png" width="128px"><p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -11,7 +11,7 @@
 
 <br><br>
 
-<p align="center"><img src="https://raw.githubusercontent.com/anfederico/Flaskex/master/media/flaskex-demo.png" width="100%"><p>
+<p align="center"><img src="https://raw.githubusercontent.com/karma0/tafyio/master/media/flaskex-demo.png" width="100%"><p>
 
 ## Features
 - Encrypted user authorizaton
@@ -26,11 +26,11 @@
 
 ## Setup
 ``` 
-git clone https://github.com/anfederico/Flaskex
-cd Flaskex
+git clone https://github.com/karma0/tafyio
+cd tafyio
 pip install -r requirements.txt
 python app.py
 ```
 
 ## Contributing
-Please take a look at our [contributing](https://github.com/anfederico/Flaskex/blob/master/CONTRIBUTING.md) guidelines if you're interested in helping!
+Please take a look at our [contributing](https://github.com/karma0/tafyio/blob/master/CONTRIBUTING.md) guidelines if you're interested in helping!
